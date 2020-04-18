@@ -1,0 +1,8 @@
+>>> 2 == 2
+True
+>>>  2 == 3
+SyntaxError: unexpected indent
+>>> 2 == 3
+False
+>>> 
+

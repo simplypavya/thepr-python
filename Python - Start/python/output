@@ -1,0 +1,25 @@
+PS C:\PR\LEARNING\DevOpsLab\GitRepo\thepr-python\Python - Start\python> python
+Python 3.7.4 (tags/v3.7.4:e09359112e, Jul  8 2019, 19:29:22) [MSC v.1916 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> print("I am thepr",end="")
+I am thepr>>> print("I am thepr",end="*")
+I am thepr*>>> print("I am thepr",end="\n")
+I am thepr
+>>> print("I am thepr",sep="\n")
+I am thepr
+>>> print("I", "am", " thepr", sep="\n")
+I
+am
+ thepr
+>>> print("I", "am", "thepr", sep="\n")
+I
+am
+thepr
+>>> print("2")
+2
+>>> print(2)
+2
+>>> print("2+3")
+2+3
+>>> print(2+3)
+5
